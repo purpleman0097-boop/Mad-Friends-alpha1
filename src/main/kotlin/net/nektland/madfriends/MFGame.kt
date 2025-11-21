@@ -96,7 +96,6 @@ class MFGame() {
         }
     }
 
-
     private fun getPlayerList(): List<MFPlayer> {
         return mfPlayers.values.toList()
     }
